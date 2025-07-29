@@ -10,9 +10,9 @@ This is a simple web app that fetches and displays a random dog image when the *
 - Simple and clean UI
 - Built with HTML, CSS, and JavaScript
 
-## 📸 Preview
+## 📸 How it works!
 
-Click the **Show** button to load a random dog image!
+Click the **Show** button to load a random dog image! 
 
 ## 🛠️ How to Run
 
