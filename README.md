@@ -2,7 +2,11 @@
 
 This is a simple web app that fetches and displays a random dog image when the **Show** button is clicked.
 
-![screenshot](./screenshot.png)
+## How it looks!!
+<p align="center">
+  <img src="./screenshot.png" alt="screenshot" width="500" />
+</p>
+
 
 ## 🚀 Features
 
@@ -12,7 +16,8 @@ This is a simple web app that fetches and displays a random dog image when the *
 
 ## 📸 How it works!
 
-Click the **Show** button to load a random dog image! 
+- Click the **Show** button to load a random dog image! 
+- Api used = "https://dog.ceo/api/breeds/image/random"
 
 ## 🛠️ How to Run
 
