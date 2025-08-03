@@ -4,7 +4,7 @@ This is a simple web app that fetches and displays a random dog image when the *
 
 ## How it looks!!
 <p align="center">
-  <img src="./screenshot.png" alt="screenshot" width="500" />
+  <img src="./screenshot.png" alt="screenshot" width="500" height="450" />
 </p>
 
 
